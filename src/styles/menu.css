@@ -1,0 +1,26 @@
+.qai-logo {
+  margin: 0 1rem;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.navbar a{
+  color:whitesmoke;
+  font-weight: 400;
+}
+.navbar a:hover{
+  color: lightblue;
+}
+
+.navbar .navbar-nav .nav-link.active {
+  color: lightblue;
+  font-weight: 700;
+}
+
+.navbar .navbar-toggler {
+  /* color:whitesmoke; */
+  border: var(--bs-border-width) solid whitesmoke;
+  background-color: rgba(245, 245, 245, 0.65);
+}

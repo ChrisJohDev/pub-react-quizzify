@@ -1,0 +1,14 @@
+.about-page {
+  background-color: rgb(197, 219, 238);
+  padding: 2rem 3rem;
+  box-shadow: 0 0 10px 15px rgba(10, 2, 252, 0.5);
+  border-radius: 10px;
+  margin-top: 2rem;
+}
+
+.about-page h1 {
+  font-size: 3rem;
+  color: blue;
+  font-family: Roboto;
+  margin-bottom: 2rem;
+}
